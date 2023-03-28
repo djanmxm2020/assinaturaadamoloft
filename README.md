@@ -1,0 +1,2 @@
+# assinaturaadamoloft
+assinatura de email
